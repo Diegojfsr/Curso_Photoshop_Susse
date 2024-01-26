@@ -1,6 +1,6 @@
 
 <h1> Sejam bem-vindos!!! </h1>
-<h3> Esse é o meu repositório dos projetos do Curso Photoshop Susse. </h3>
+<h3> Esse é o meu repositório de projetos do Curso Photoshop Susse. </h3>
 
 ![](https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Imagens/Capa_Curso_Photoshop.jpg)
 
