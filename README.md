@@ -30,6 +30,19 @@
   ☑️ Projeto do módulo 7 – Pôster para filme. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Sobre_Projetos/Readme%20Projeto%20Modulo%207.md"> Acessar➡️ </a> <br>
   ☑️ Projeto do módulo 8 – Técnica livre + animado. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Sobre_Projetos/Readme%20Projeto%20Modulo%208.md"> Acessar➡️ </a> <br>
 
+
+
+<h2 dir="auto"> 📝 Lista de Projetos </h2>
+✔️ Baixe o projeto do módulo 2.<a id="raw-url" href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/raw/main/Photoshop_Projetos/Projeto%20Modulo%202.zip">Baixar⤵️</a> 
+✔️ Baixe o projeto do módulo 3.<a id="raw-url" href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/raw/main/Photoshop_Projetos/Projeto%20Modulo%202.zip">Baixar⤵️</a> 
+✔️ Baixe o projeto do módulo 4.<a id="raw-url" href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/raw/main/Photoshop_Projetos/Projeto%20Modulo%202.zip">Baixar⤵️</a> 
+✔️ Baixe o projeto do módulo 5.<a id="raw-url" href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/raw/main/Photoshop_Projetos/Projeto%20Modulo%202.zip">Baixar⤵️</a> 
+✔️ Baixe o projeto do módulo 6.<a id="raw-url" href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/raw/main/Photoshop_Projetos/Projeto%20Modulo%202.zip">Baixar⤵️</a> 
+✔️ Baixe o projeto do módulo 7.<a id="raw-url" href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/raw/main/Photoshop_Projetos/Projeto%20Modulo%202.zip">Baixar⤵️</a> 
+✔️ Baixe o projeto do módulo 8.<a id="raw-url" href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/raw/main/Photoshop_Projetos/Projeto%20Modulo%202.zip">Baixar⤵️</a> 
+
+
+
  
  <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
