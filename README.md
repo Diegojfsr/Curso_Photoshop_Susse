@@ -7,18 +7,8 @@
 <h2 dir="auto"> 📚 Curso de Photoshop Susse </h2>
 💙 8 módulos. <br>
 💙 75 vídeos. <br>
-💙 6 meses para gravar, editar e programar tudo. <br>
-💙 465 vezes que foi citado algum atalho. <br>
-💙 153 atalhos citados. <br>
-🐿️ E muitos, muitos esquilos em todas as aulas. <br>
-
- Boooora conferir? 😄
- <a href="https://sheisacreative.com.br/curso/curso-photoshop-susse-youtube"> Acessar➡️ </a>
-
-
-📚CursoPhotoshopSusse, disponibilizado com 💙 por Maiane Gabriele 😄
-
-
+ Boooora conferir? 😄 <br>
+  <a href="https://sheisacreative.com.br/curso/curso-photoshop-susse-youtube"> Acessar➡️ </a> 
 
 <h2 dir="auto"> 🚦 Módulos Assistidos </h2>
    ✅ Módulo 1 – Apresentação do Curso Photoshop Susse. <br>
@@ -43,10 +33,13 @@
  
  <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
- Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
+ <em> 
+  Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+ </em>
 </p>
 
-
+  📚 #CursoPhotoshopSusse. <br>
+  <em> Disponibilizado com </em> 💙 <em> por <a href="https://www.linkedin.com/in/sheisacreative/"> Maiane Gabriele </a> </em> 😄
 
 
