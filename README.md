@@ -19,22 +19,22 @@
   ☑️ Projeto do módulo 2 – Criação Livre. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%202.jpg"> 📤 Acessar </a> 
   | <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Photoshop_Projetos/Projeto%20Modulo%202.zip"> 📥 Baixar  </a> <br>
   
-  ☑️ Projeto do módulo 3 – Modelo de Instagram. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%203.jpg"> Acessar </a> <br>
+  ☑️ Projeto do módulo 3 – Modelo de Instagram. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%203.jpg"> Acessar </a>
   | <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Photoshop_Projetos/Projeto%20Modulo%202.zip"> 📥 Baixar  </a> <br>
   
-  ☑️ Projeto do módulo 4 – Ilustração com Foto. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%204.jpg"> Acessar </a> <br>
+  ☑️ Projeto do módulo 4 – Ilustração com Foto. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%204.jpg"> Acessar </a>
   | <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Photoshop_Projetos/Projeto%20Modulo%202.zip"> 📥 Baixar  </a> <br>
   
-  ☑️ Projeto do módulo 5 – Composição com recorte. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%205.jpg"> Acessar </a> <br>
+  ☑️ Projeto do módulo 5 – Composição com recorte. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%205.jpg"> Acessar </a>
   | <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Photoshop_Projetos/Projeto%20Modulo%202.zip"> 📥 Baixar  </a> <br>
   
-  ☑️ Projeto do módulo 6 – Instagram com Filtros. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%206.jpg"> Acessar </a> <br>
+  ☑️ Projeto do módulo 6 – Instagram com Filtros. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%206.jpg"> Acessar </a>
   | <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Photoshop_Projetos/Projeto%20Modulo%202.zip"> 📥 Baixar  </a> <br>
   
-  ☑️ Projeto do módulo 7 – Pôster para filme. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%207.jpg"> Acessar </a> <br>
+  ☑️ Projeto do módulo 7 – Pôster para filme. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%207.jpg"> Acessar </a>
   | <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Photoshop_Projetos/Projeto%20Modulo%202.zip"> 📥 Baixar  </a> <br>
   
-  ☑️ Projeto do módulo 8 – Técnica livre + animado. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%208.gif"> Acessar </a> <br>
+  ☑️ Projeto do módulo 8 – Técnica livre + animado. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%208.gif"> Acessar </a>
   | <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Photoshop_Projetos/Projeto%20Modulo%202.zip"> 📥 Baixar  </a> <br>
 
  
