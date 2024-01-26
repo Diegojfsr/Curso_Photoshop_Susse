@@ -4,6 +4,22 @@
 
 ![](https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Imagens/Capa_Curso_Photoshop.jpg)
 
+<h2 dir="auto"> 📚 Curso de Photoshop Susse </h2>
+💙 8 módulos. <br>
+💙 75 vídeos. <br>
+💙 6 meses para gravar, editar e programar tudo. <br>
+💙 465 vezes que foi citado algum atalho. <br>
+💙 153 atalhos citados. <br>
+🐿️ E muitos, muitos esquilos em todas as aulas. <br>
+
+ Boooora conferir? 😄
+ <a href="https://sheisacreative.com.br/curso/curso-photoshop-susse-youtube"> Acessar➡️ </a>
+
+
+📚CursoPhotoshopSusse, disponibilizado com 💙 por Maiane Gabriele 😄
+
+
+
 <h2 dir="auto"> 🚦 Módulos Assistidos </h2>
    ✅ Módulo 1 – Apresentação do Curso Photoshop Susse. <br>
    ✅ Módulo 2 – Conhecendo o Photoshop. <br>
@@ -16,13 +32,13 @@
 
  
 <h2 dir="auto"> 📝 Lista de Projetos </h2>
-  ☑️ Projeto do módulo 2 – Criação Livre. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%202.jpg"> 📤 Acessar </a> <br>
-  ☑️ Projeto do módulo 3 – Modelo de Instagram. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%203.jpg"> 📤 Acessar </a> <br>
-  ☑️ Projeto do módulo 4 – Ilustração com Foto. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%204.jpg"> 📤 Acessar </a> <br>
-  ☑️ Projeto do módulo 5 – Composição com recorte. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%205.jpg"> 📤 Acessar </a> <br>
-  ☑️ Projeto do módulo 6 – Instagram com Filtros. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%206.jpg"> 📤 Acessar </a> <br>
-  ☑️ Projeto do módulo 7 – Pôster para filme. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%207.jpg"> 📤 Acessar </a> <br>
-  ☑️ Projeto do módulo 8 – Técnica livre + animado. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%208.gif"> 📤 Acessar </a> <br>
+  ☑️ Projeto do módulo 2 – Criação Livre. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%202.jpg"> Acessar➡️ </a> <br>
+  ☑️ Projeto do módulo 3 – Modelo de Instagram. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%203.jpg"> Acessar➡️ </a> <br>
+  ☑️ Projeto do módulo 4 – Ilustração com Foto. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%204.jpg"> Acessar➡️ </a> <br>
+  ☑️ Projeto do módulo 5 – Composição com recorte. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%205.jpg"> Acessar➡️ </a> <br>
+  ☑️ Projeto do módulo 6 – Instagram com Filtros. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%206.jpg"> Acessar➡️ </a> <br>
+  ☑️ Projeto do módulo 7 – Pôster para filme. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%207.jpg"> Acessar➡️ </a> <br>
+  ☑️ Projeto do módulo 8 – Técnica livre + animado. <a href="https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%208.gif"> Acessar➡️ </a> <br>
 
  
  <h2 dir="auto"> 🤝 Contribuindo </h2>
