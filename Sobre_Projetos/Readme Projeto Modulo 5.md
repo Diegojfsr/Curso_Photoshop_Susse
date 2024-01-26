@@ -20,4 +20,6 @@ Este projeto tem o intuito de reforçar os aprendizados sobre recortes no Photos
 Como as técnicas são bastante variadas, é uma forma de você aprender a utilizá-las, 
 fazer alguns testes e começar a descobrir o que funciona melhor para o seu dia a dia.
 
+<h2 dir="auto"> 🚩 Resultado Final </h2>
 
+![](https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Jpeg_Projetos/Projeto%20Modulo%205.jpg)
