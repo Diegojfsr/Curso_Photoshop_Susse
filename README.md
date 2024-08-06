@@ -1,10 +1,9 @@
 
 ![](https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Imagens/Capa_Curso_Photoshop.jpg)
 
-### Curso Photoshop Susse.
+###  📚 Curso de Photoshop Susse
 Curso Gratuito de Photoshop do Básico ao Avançado.
 
-<h2 dir="auto"> 📚 Curso de Photoshop Susse </h2>
 💙 8 módulos. <br>
 💙 75 vídeos. <br>
  Boooora conferir? 😄 <br>
